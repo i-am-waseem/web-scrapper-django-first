@@ -1,0 +1,12 @@
+.highlight{
+	margin-top:10px;
+}
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px; /* Your height here */
+    overflow: hidden;
+}
