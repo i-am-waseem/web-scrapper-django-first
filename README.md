@@ -1,4 +1,4 @@
-# web-scrapper-django-first
+# web-search-interface-django-first
 Web scraper interface for craiglist. 
 
 This interface acts as a sales search engine at bangalore location. And, it uses results provided craiglist.org, in backend. 
